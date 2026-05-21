@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/im-already-there/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for I’m Already There](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-already-there/) |
+| **Get License** | [Commercial Licensing for I’m Already There](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/im-already-there/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a6920882486b76b94e27a18d6ef62a9ce202073caf112c3d6d451c14e463dcc5` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
